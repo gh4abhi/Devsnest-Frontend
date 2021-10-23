@@ -1,2 +1,2 @@
 # Devsnest-Frontend
-Devsnest Frontend
+Devsnest Frontend projects.
